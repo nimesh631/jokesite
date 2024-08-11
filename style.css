@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border_box;
+}
+
+body{
+    background-image: url("restaurant.webp");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    
+
+}
+
+.quotebox{
+    background-color: white;
+    width: 600px;
+    padding: 40px;
+    text-align: center;
+}
+
+.quotation-mark{
+    font-size: 5em;
+
+}
+
+blockquote{
+    font-size:2em;
+}
